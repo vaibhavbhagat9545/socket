@@ -1,0 +1,23 @@
+{
+  "name": "soket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "soket.io",
+    "javascript",
+    "chat"
+  ],
+  "author": "Vaibhav Bhagat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
